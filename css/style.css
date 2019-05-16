@@ -1,0 +1,28 @@
+
+.color{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+
+h1{
+	text-align: center;
+}
+
+
+.color2{
+	height: 100px;
+	background-color: orange;
+}
+
+
+.container-fluid{
+	height: 100px;
+	background-color: orange; 
+}
+
+h5{
+	font-size: 28px;
+	color:black;
+}
+
